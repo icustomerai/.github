@@ -1,11 +1,5 @@
 # Ownership of the organisation-default community health files.
-# Adjust the team slug below to a real iCustomer GitHub team with write access.
-# Changes to these org-wide defaults require review from a platform owner.
+# The @icustomerai/engineering team must have write access to this repo
+# for these owners to take effect.
 
-* @icustomerai/platform
-
-# Pull request and issue templates set the default experience for every repo.
-/PULL_REQUEST_TEMPLATE.md @icustomerai/platform
-/.github/ISSUE_TEMPLATE/ @icustomerai/platform
-/SECURITY.md @icustomerai/platform
-/profile/ @icustomerai/platform
+* @icustomerai/engineering
