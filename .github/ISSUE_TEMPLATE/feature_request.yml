@@ -9,7 +9,7 @@ body:
     attributes:
       label: Linear issue
       description: Associated Linear identifier, if one exists.
-      placeholder: IC-123
+      placeholder: ENG-123
     validations:
       required: false
   - type: textarea

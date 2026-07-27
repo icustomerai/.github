@@ -1,6 +1,6 @@
 ## Linear issue
 
-<!-- Add the issue key, for example IC-123. -->
+<!-- Add the issue key, for example ENG-123. -->
 
 ## Summary
 
