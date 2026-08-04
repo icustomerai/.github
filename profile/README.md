@@ -10,7 +10,6 @@ iCustomer runs decision loops for growth marketing: an always-on system that rea
 
 - Website: https://icustomer.ai
 - Blog: https://blog.icustomer.ai
-- Docs: https://docs.icustomer.ai
 
 ## Security
 
