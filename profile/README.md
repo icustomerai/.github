@@ -1,21 +1,20 @@
 # iCustomer
 
-iCustomer builds AI-native software for customer intelligence and go-to-market teams.
+iCustomer runs decision loops for growth marketing: an always-on system that reads the first-party data you already own, decides who, when, and what per channel, acts in the tools you already run, and proves what caused revenue. Your data stays in your warehouse, and every decision leaves a trace. This page is the front door for the code-led way in.
 
-## What we work on
+## Start here
 
-Our engineering organisation ships services and applications that turn customer signals into action. Most of our repositories are private; this page collects the entry points that are safe to share.
+- [icustomer-plugin](https://github.com/icustomerai/icustomer-plugin) is our Claude plugin, plus public examples and loops. Install it and Claude can work with iCustomer audiences, decisions, and activation from a conversation or the command line.
 
-## Engineering practices
+## Learn more
 
-- [Engineering workflows](https://github.com/icustomerai/engineering-workflows) — branch strategy, review governance, release conventions, and shared workflow templates.
-- Every repository uses the organisation-default pull request template and contribution guidance maintained in this `.github` repository.
+- Website: https://icustomer.ai
+- Blog: https://blog.icustomer.ai
 
-## Reporting a security issue
+## Security
 
-Please do not open a public issue for security problems. Follow the process in our [security policy](https://github.com/icustomerai/.github/blob/main/SECURITY.md).
+Please do not open a public issue for security problems. Follow our [security policy](https://github.com/icustomerai/.github/blob/main/SECURITY.md) instead.
 
 ## Contact
 
-- Website: https://icustomer.ai
-- General enquiries: hello@icustomer.ai
+hello@icustomer.ai
