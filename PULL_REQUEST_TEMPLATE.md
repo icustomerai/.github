@@ -14,6 +14,13 @@
 - [ ] Breaking change
 - [ ] Documentation or maintenance
 
+## PRD
+
+<!-- Behaviour changes update the module PRD, tagged with this issue's key (engineering-workflows: Changing a shipped module). -->
+
+- [ ] PRD updated (link the PRD change)
+- [ ] No PRD impact (bug fix, small fix or maintenance): `no-prd-impact` label applied
+
 ## Validation
 
 <!-- List the tests, checks, or manual validation performed. -->
